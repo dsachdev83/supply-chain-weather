@@ -1,9 +1,9 @@
 ---
 declared-services:
-  supply-chain-weather-insights:
+  supply-chain-weather-insights-ds1983:
     label: weatherinsights
     plan: Free-v2
-  supply-chain-datastore:
+  supply-chain-datastore-ds1983:
     label: cloudantNoSQLDB
     plan: Shared
 applications:
